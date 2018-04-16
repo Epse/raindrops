@@ -1,0 +1,15 @@
+C:\Users\Splet\source\repos\H6_Objects\RainDrops\bin\Debug\RainDrops.exe.config
+C:\Users\Splet\source\repos\H6_Objects\RainDrops\bin\Debug\RainDrops.exe
+C:\Users\Splet\source\repos\H6_Objects\RainDrops\bin\Debug\RainDrops.pdb
+C:\Users\Splet\source\repos\H6_Objects\RainDrops\obj\Debug\RainDrops.csprojResolveAssemblyReference.cache
+C:\Users\Splet\source\repos\H6_Objects\RainDrops\obj\Debug\MainWindow.g.cs
+C:\Users\Splet\source\repos\H6_Objects\RainDrops\obj\Debug\App.g.cs
+C:\Users\Splet\source\repos\H6_Objects\RainDrops\obj\Debug\RainDrops_MarkupCompile.cache
+C:\Users\Splet\source\repos\H6_Objects\RainDrops\obj\Debug\RainDrops_MarkupCompile.lref
+C:\Users\Splet\source\repos\H6_Objects\RainDrops\obj\Debug\MainWindow.baml
+C:\Users\Splet\source\repos\H6_Objects\RainDrops\obj\Debug\RainDrops.g.resources
+C:\Users\Splet\source\repos\H6_Objects\RainDrops\obj\Debug\RainDrops.Properties.Resources.resources
+C:\Users\Splet\source\repos\H6_Objects\RainDrops\obj\Debug\RainDrops.csproj.GenerateResource.Cache
+C:\Users\Splet\source\repos\H6_Objects\RainDrops\obj\Debug\RainDrops.csproj.CoreCompileInputs.cache
+C:\Users\Splet\source\repos\H6_Objects\RainDrops\obj\Debug\RainDrops.exe
+C:\Users\Splet\source\repos\H6_Objects\RainDrops\obj\Debug\RainDrops.pdb
